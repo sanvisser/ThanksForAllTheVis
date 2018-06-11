@@ -1,0 +1,35 @@
+html, body {
+    font-family: sans-serif;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+input, button {
+    padding: 3px;
+
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    background-color: #bec7ca;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+#mynetwork {
+    width: 100%;
+    height: 100%;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+
+#sidebar {
+    width: 20%;
+    height: 100%;
+}
