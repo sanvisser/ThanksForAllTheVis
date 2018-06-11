@@ -14,3 +14,5 @@ Github repository overview tool using vis.js
 - [ ] Host this on GitHub Pages
 - [ ] Show User / Repository / Branch / Commit / Issue / Pull Request information on focus in the sidebar.  show all interesting information of the node in the sidebar. (or anywhere else where it would make sense...) 
 
+# Luca improvements
+- [ ] Add FuckyWucky Error Handling.
